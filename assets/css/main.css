@@ -3931,7 +3931,7 @@ input, select, textarea {
 			margin-left: 150px;
 			margin-right: 150px;
 
-			background-color: #000000c5;
+			background-color: rgba(24, 24, 24, 0.77);
 			border: 1px solid rgb(0, 0, 0);
 			opacity: 1;
 		  }
@@ -3945,6 +3945,9 @@ input, select, textarea {
 
 		  body.childPages{
 			background-color: #ffffff;
+			background-image: url(../../images/giphy.gif);
+			background-size: auto;
+
 		}
 
 		body.ParentPage{
